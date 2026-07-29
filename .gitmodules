@@ -1,0 +1,3 @@
+[submodule "game-backlog"]
+	path = game-backlog
+	url = https://github.com/giabaoye/game-backlog.git
