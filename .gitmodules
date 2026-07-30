@@ -1,3 +1,6 @@
 [submodule "game-backlog"]
 	path = game-backlog
 	url = https://github.com/giabaoye/game-backlog.git
+[submodule "mvc-practice-template"]
+	path = mvc-practice-template
+	url = https://github.com/giabaoye/mvc-practice-template
